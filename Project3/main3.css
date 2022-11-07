@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+    width: 100%;
+    height: 150px;
+    background-color: #474e5d;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: white;
+}
+.our-team {
+    width: 100%;
+    height: 50px;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+.rose, .jisoo, .lisa {
+    height: 800px;
+    width: 480px;
+    margin-left: 25px;
+    border: 1px solid pink;
+}
+.content {
+    display: flex;
+    justify-content:space-between ;
+}
+.bl-rose, .bl-jisoo, .bl-lisa {
+    width: 100%;
+    height: 500px;
+}
+h4 {
+    font-size: 30px;
+}
+.name-rose, .name-jisoo, .name-lisa {
+    margin-left: 20px;
+}
+.btn-rose, .btn-jisoo, .btn-lisa {
+    width: 90%;
+    height: 35px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.btn-jisoo:hover {
+    opacity: 0.8;
+}
+.btn-rose:hover {
+    opacity: 0.8;
+}
+.btn-lisa:hover {
+    opacity: 0.8;
+}

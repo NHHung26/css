@@ -1,0 +1,27 @@
+.text {
+    color: blue;
+}
+
+.main-text {
+    font-size: 35px;
+}
+
+.main-text {
+    margin: 0;
+}
+
+.long-text {
+    margin-top: 16px;
+}
+
+.content-1 {
+    background: url("https://c8.alamy.com/comp/2C49PGE/big-data-analytics-through-machine-learning-artificial-intelligence-concept-background-using-deep-learning-algorithms-for-neural-network-data-analys-2C49PGE.jpg");
+    width: 20%;
+    height: 400px;
+    text-align:justify;
+}
+
+.text-content-1 > a{
+    color: antiquewhite;
+    text-decoration: none;
+}
